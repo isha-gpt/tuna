@@ -13,7 +13,7 @@ A modern web application built with Node.js and React.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/tuna.git
+git clone https://github.com/isha-gpt/tuna.git
 cd tuna
 ```
 
